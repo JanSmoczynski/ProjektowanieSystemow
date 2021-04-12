@@ -1,0 +1,16 @@
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net5.0\MetodaSzablonowa.csprojAssemblyReference.cache
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net5.0\MetodaSzablonowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net5.0\MetodaSzablonowa.AssemblyInfoInputs.cache
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net5.0\MetodaSzablonowa.AssemblyInfo.cs
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net5.0\MetodaSzablonowa.csproj.CoreCompileInputs.cache
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net5.0\MetodaSzablonowa.exe
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net5.0\MetodaSzablonowa.deps.json
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net5.0\MetodaSzablonowa.runtimeconfig.json
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net5.0\MetodaSzablonowa.runtimeconfig.dev.json
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net5.0\MetodaSzablonowa.dll
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net5.0\ref\MetodaSzablonowa.dll
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net5.0\MetodaSzablonowa.pdb
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net5.0\MetodaSzablonowa.dll
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net5.0\ref\MetodaSzablonowa.dll
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net5.0\MetodaSzablonowa.pdb
+C:\Users\janek\source\repos\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net5.0\MetodaSzablonowa.genruntimeconfig.cache

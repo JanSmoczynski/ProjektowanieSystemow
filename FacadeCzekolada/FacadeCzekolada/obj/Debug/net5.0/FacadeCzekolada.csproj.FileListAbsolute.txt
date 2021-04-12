@@ -1,0 +1,16 @@
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\bin\Debug\net5.0\FacadeCzekolada.exe
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\bin\Debug\net5.0\FacadeCzekolada.deps.json
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\bin\Debug\net5.0\FacadeCzekolada.runtimeconfig.json
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\bin\Debug\net5.0\FacadeCzekolada.runtimeconfig.dev.json
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\bin\Debug\net5.0\FacadeCzekolada.dll
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\bin\Debug\net5.0\ref\FacadeCzekolada.dll
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\bin\Debug\net5.0\FacadeCzekolada.pdb
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\obj\Debug\net5.0\FacadeCzekolada.csprojAssemblyReference.cache
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\obj\Debug\net5.0\FacadeCzekolada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\obj\Debug\net5.0\FacadeCzekolada.AssemblyInfoInputs.cache
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\obj\Debug\net5.0\FacadeCzekolada.AssemblyInfo.cs
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\obj\Debug\net5.0\FacadeCzekolada.csproj.CoreCompileInputs.cache
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\obj\Debug\net5.0\FacadeCzekolada.dll
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\obj\Debug\net5.0\ref\FacadeCzekolada.dll
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\obj\Debug\net5.0\FacadeCzekolada.pdb
+C:\Users\janek\source\repos\FacadeCzekolada\FacadeCzekolada\obj\Debug\net5.0\FacadeCzekolada.genruntimeconfig.cache
