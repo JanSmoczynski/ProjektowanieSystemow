@@ -1,0 +1,16 @@
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\bin\Debug\net5.0\AdapterCzekolady.exe
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\bin\Debug\net5.0\AdapterCzekolady.deps.json
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\bin\Debug\net5.0\AdapterCzekolady.runtimeconfig.json
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\bin\Debug\net5.0\AdapterCzekolady.runtimeconfig.dev.json
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\bin\Debug\net5.0\AdapterCzekolady.dll
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\bin\Debug\net5.0\ref\AdapterCzekolady.dll
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\bin\Debug\net5.0\AdapterCzekolady.pdb
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\obj\Debug\net5.0\AdapterCzekolady.csprojAssemblyReference.cache
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\obj\Debug\net5.0\AdapterCzekolady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\obj\Debug\net5.0\AdapterCzekolady.AssemblyInfoInputs.cache
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\obj\Debug\net5.0\AdapterCzekolady.AssemblyInfo.cs
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\obj\Debug\net5.0\AdapterCzekolady.csproj.CoreCompileInputs.cache
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\obj\Debug\net5.0\AdapterCzekolady.dll
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\obj\Debug\net5.0\ref\AdapterCzekolady.dll
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\obj\Debug\net5.0\AdapterCzekolady.pdb
+C:\Users\janek\source\repos\AdapterCzekolady\AdapterCzekolady\obj\Debug\net5.0\AdapterCzekolady.genruntimeconfig.cache

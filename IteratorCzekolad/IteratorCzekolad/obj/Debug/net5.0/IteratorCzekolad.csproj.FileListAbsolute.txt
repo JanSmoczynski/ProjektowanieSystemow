@@ -1,0 +1,16 @@
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\bin\Debug\net5.0\IteratorCzekolad.exe
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\bin\Debug\net5.0\IteratorCzekolad.deps.json
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\bin\Debug\net5.0\IteratorCzekolad.runtimeconfig.json
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\bin\Debug\net5.0\IteratorCzekolad.runtimeconfig.dev.json
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\bin\Debug\net5.0\IteratorCzekolad.dll
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\bin\Debug\net5.0\ref\IteratorCzekolad.dll
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\bin\Debug\net5.0\IteratorCzekolad.pdb
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\obj\Debug\net5.0\IteratorCzekolad.csprojAssemblyReference.cache
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\obj\Debug\net5.0\IteratorCzekolad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\obj\Debug\net5.0\IteratorCzekolad.AssemblyInfoInputs.cache
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\obj\Debug\net5.0\IteratorCzekolad.AssemblyInfo.cs
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\obj\Debug\net5.0\IteratorCzekolad.csproj.CoreCompileInputs.cache
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\obj\Debug\net5.0\IteratorCzekolad.dll
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\obj\Debug\net5.0\ref\IteratorCzekolad.dll
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\obj\Debug\net5.0\IteratorCzekolad.pdb
+C:\Users\janek\source\repos\IteratorCzekolad\IteratorCzekolad\obj\Debug\net5.0\IteratorCzekolad.genruntimeconfig.cache
